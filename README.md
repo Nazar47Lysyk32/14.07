@@ -1,1 +1,1 @@
-# 14.07 (ConsoleApplication7 Це перше завдання. ConsoleApplication8 Це друге)
+# 21.07 (ConsoleApplication7 Це перше завдання. ConsoleApplication8 Це друге)
